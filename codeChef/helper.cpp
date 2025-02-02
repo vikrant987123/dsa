@@ -180,7 +180,7 @@ pair<int, int> cyclicSteps(char start, char target) { //cyclic movement of char
 
 void helper()
 {
-
+//hghish
 int n ,a,b;
 cin>> n >> a>>b;
 
